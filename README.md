@@ -1,6 +1,6 @@
 # Dynamic Insurance Prediction
 
-![Insurance](https://cdn.pixabay.com/photo/2017/09/03/11/19/insurance-2700812_960_720.jpg)
+![Insurance](Designer.png)
 
 ## Overview
 
