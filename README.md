@@ -36,26 +36,5 @@ pandas==1.5.3
 numpy==1.22.4
 joblib==1.2.0
 streamlit==1.24.0
-
-**Application**
-
-Our application is built using Streamlit. You can interact with it to get predictions on insurance charges based on user input.
-
-**Usage**
-
-Run the application:
-
-streamlit run app.py
-
-This command will start the Streamlit server, and you can access the application through your web browser.
-
-Input User Data:
-
-Once the application is running, you can use the sliders and dropdowns on the sidebar to input user data such as age, sex, BMI, number of children, and smoking status.
-
-View Prediction:
-
-After entering the user data, the application will display the estimated insurance charge based on the input.
-
-Feel free to explore and interact with the application to estimate insurance charges based on different scenarios!
+   
 
