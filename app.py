@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import joblib
 
-model = joblib.load(r"C:\Users\HP\Downloads\rfr_model")
+model = joblib.load("rfr_model")
 
 def preprocess_input(age, sex, bmi, children, smoker):
     data = pd.DataFrame({
